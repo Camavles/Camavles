@@ -1,7 +1,7 @@
 - 💻 Olá, eu sou Camila Alves! Desenvolvedora Back-end e Bacharel em História!
 - 🌱 Estou estudando JavaScript e NodeJS
 - 💞️ Procuro projetos legais e interessantes para colaborar e aprender mais. Bora codar junto?
-- 📫 Você pode em encontrar através do meu LinkedIn: https://www.linkedin.com/in/camila-alves-da-silva-1a1436226
+- 📫 Você pode em encontrar através do meu e-mail: camila12.silva@outlook.com
 
 <!---
 Camavles/Camavles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
