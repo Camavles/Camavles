@@ -3,7 +3,7 @@
 - 💻 Sou Desenvolvedora Back-end e Bacharel em História!
 - 🌱 Estou estudando JavaScript, Node.JS, API Rest, JSON.  
 - 💞️ Procuro projetos legais e interessantes para colaborar e aprender mais. Bora codar junto?
-- 📫 Você pode me entrar em contato comigo através do meu e-mail: camila12.silva@outlook.com
+- 📫 Você pode entrar em contato comigo através do meu e-mail: camila12.silva@outlook.com
    
  ##  
 </div>
