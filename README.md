@@ -1,7 +1,7 @@
 ## Olá, eu sou Camila Alves!
 
 - 💻 Sou Desenvolvedora Back-end e Bacharel em História!
-- 🌱 Estou estudando JavaScript, Node.JS, API Rest, JSON.  
+- 🌱 Estou estudando JavaScript, Node.JS, API Rest, JSON, MongoDB.
 - 💞️ Procuro projetos legais e interessantes para colaborar e aprender mais. Bora codar junto?
 - 📫 Você pode entrar em contato comigo através do meu e-mail: camila12.silva@outlook.com
    
