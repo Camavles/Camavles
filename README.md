@@ -18,8 +18,6 @@
  <div align="center">
    <a href="https://github.com/Camavles">
  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Camavles&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
- 
-    
     
 <!---
 Camavles/Camavles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
