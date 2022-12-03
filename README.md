@@ -33,7 +33,7 @@
  
  <div align="center">
    <a href="https://github.com/Camavles">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Camavles&theme=dark&hide_border=false<br"/>
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Camavles&theme=neon-dark&hide_border=false<br"/>
    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Camavles&count_private=true&theme=synthwave&show_icons=true">
    
   
