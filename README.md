@@ -31,14 +31,7 @@
 
 
 📁 [API CRUD COMPLETO](https://github.com/Camavles/Projeto-carolina-de-jesus) 
-
-
-📁 [TESTES UNITÁRIOS](https://github.com/reprograma/on18-tet-s15-automacao-teste/pull/3/commits/76b9d11433cf49fb1d141f8e75f9b27ce858a6c8#diff-b8d4b258010975a9463755140920929d5538e6d573d9c6bfd9479ab056df9f1e)
-
-
-📁 [EXERCÍCIOS DE LÓGICA](https://github.com/reprograma/on18-tet-s5-pg-I/pull/60/commits/fa5b8a05d6121684c669708b9d15f68f406f1f75#diff-ad652465b50a5bff8b1e6ceadff4ec1d1671309edc594c76940b0f4a2ac70c83)
- 
- 
+  
 📁[SITE COMPLETO](https://camavles.github.io/frontend/)
  
  ##
