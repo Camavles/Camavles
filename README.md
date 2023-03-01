@@ -39,7 +39,7 @@
 📁 [EXERCÍCIOS DE LÓGICA](https://github.com/reprograma/on18-tet-s5-pg-I/pull/60/commits/fa5b8a05d6121684c669708b9d15f68f406f1f75#diff-ad652465b50a5bff8b1e6ceadff4ec1d1671309edc594c76940b0f4a2ac70c83)
  
  
-📁[INTEGRAÇÃO ENTRE HTML E JAVASCRIPT](https://github.com/Camavles/estudos)
+📁[SITE COMPLETO](https://camavles.github.io/docs/)
  
  ##
  # 📊 GitHub Stats:
