@@ -5,9 +5,9 @@
  let bio: {
     name: "Camila Alves",
     nickname: "Cami",
-    education: "Full Stack Developer",
+    education: "Back-end Developer",
     location: "São Paulo, Brasil",
-    code: "JavaScript, Node.js",
+    code: "JavaScript, Node.js, Java"
    }
    
    ```
