@@ -7,7 +7,7 @@
     nickname: "Cami",
     education: "Back-end Developer",
     location: "São Paulo, Brasil",
-    code: "JavaScript, Node.js, Java"
+    code: ".Net, C#, Javascript, NodeJs"
    }
    
    ```
